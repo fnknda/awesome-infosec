@@ -1,6 +1,7 @@
-# Free Hacking Resources
+# Awesome InfoSec
 
-Some free resources I found on hacking. Feel free to contribute.
+List of free resources on InfoSec found online.
+Feel free to [open a PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) and contribute.
 
 ## Binary Exploitation
 
